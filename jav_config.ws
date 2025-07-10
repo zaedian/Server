@@ -1,71 +1,65 @@
-{
-  "title": "BoomPS",
-  "adverturl": "http://www.runescape.com/g=oldscape/bare_advert.ws",
-  "codebase": "https://zaedian.github.io/Server/",
-  "cachedir": "oldschool",
-  "storebase": 0,
-  "initial_jar": "client.jar",
-  "initial_class": "client.class",
-  "termsurl": "http://www.jagex.com/g=oldscape/terms/terms.ws",
-  "privacyurl": "http://www.jagex.com/g=oldscape/privacy/privacy.ws",
-  "viewerversion": 124,
-  "win_sub_version": 1,
-  "mac_sub_version": 2,
-  "other_sub_version": 2,
-  "browsercontrol_win_x86_jar": "browsercontrol_0_-1928975093.jar",
-  "browsercontrol_win_amd64_jar": "browsercontrol_1_1674545273.jar",
-  "download": 1346530,
-  "window_preferredwidth": 800,
-  "window_preferredheight": 600,
-  "advert_height": 96,
-  "applet_minwidth": 765,
-  "applet_minheight": 503,
-  "applet_maxwidth": 5760,
-  "applet_maxheight": 2160,
-  "msg": {
-    "lang0": "English",
-    "tandc": "This game is copyright © 1999 - 2019 Jagex Ltd. Use of this game is subject to our [Terms and Conditions](http://www.runescape.com/terms/terms.ws) and [Privacy Policy](http://www.runescape.com/privacy/privacy.ws).",
-    "options": "Options",
-    "language": "Language",
-    "changes_on_restart": "Your changes will take effect when you next start this program.",
-    "loading_app_resources": "Loading application resources",
-    "err_verify_bc64": "Unable to verify browsercontrol64",
-    "err_verify_bc": "Unable to verify browsercontrol",
-    "err_load_bc": "Unable to load browsercontrol",
-    "loading_app": "Loading application",
-    "err_create_target": "Unable to create target applet",
-    "err_create_advertising": "Unable to create advertising",
-    "err_save_file": "Error saving file",
-    "err_downloading": "Error downloading",
-    "ok": "OK",
-    "cancel": "Cancel",
-    "message": "Message",
-    "copy_paste_url": "Please copy and paste the following URL into your web browser",
-    "information": "Information",
-    "err_get_file": "Error getting file",
-    "new_version": "Update available! You can now launch the client directly from the OldSchool website.\nGet the new version from the link on the OldSchool homepage: http://oldschool.runescape.com/",
-    "new_version_linktext": "Open OldSchool Homepage",
-    "new_version_link": "http://oldschool.runescape.com/"
-  },
-  "param": {
-    "1": 1,
-    "2": "https://payments.jagex.com/operator/v1/",
-    "3": true,
-    "4": 12041,
-    "5": 1,
-    "6": 0,
-    "7": 0,
-    "8": true,
-    "9": "ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw",
-    "10": 5,
-    "11": "https://auth.jagex.com/",
-    "12": 1,
-    "13": ".boom-ps.com",
-    "14": 0,
-    "15": 0,
-    "16": false,
-    "17": "https://zaedian.github.io/Server/worlds.ws",
-    "18": "",
-    "19": "196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com"
-  }
-}
+title=BoomPS
+adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
+codebase=https://zaedian.github.io/Server/
+cachedir=oldschool
+storebase=0
+initial_jar=client.jar
+initial_class=client.class
+termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
+privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
+viewerversion=124
+win_sub_version=1
+mac_sub_version=2
+other_sub_version=2
+browsercontrol_win_x86_jar=browsercontrol_0_-1928975093.jar
+browsercontrol_win_amd64_jar=browsercontrol_1_1674545273.jar
+download=1346530
+window_preferredwidth=800
+window_preferredheight=600
+advert_height=96
+applet_minwidth=765
+applet_minheight=503
+applet_maxwidth=5760
+applet_maxheight=2160
+msg=lang0=English
+msg=tandc=This game is copyright Ã‚Â© 1999 - 2019 Jagex Ltd.\Use of this game is subject to our ["http://www.runescape.com/terms/terms.ws"Terms and Conditions] and ["http://www.runescape.com/privacy/privacy.ws"Privacy Policy].
+msg=options=Options
+msg=language=Language
+msg=changes_on_restart=Your changes will take effect when you next start this program.
+msg=loading_app_resources=Loading application resources
+msg=err_verify_bc64=Unable to verify browsercontrol64
+msg=err_verify_bc=Unable to verify browsercontrol
+msg=err_load_bc=Unable to load browsercontrol
+msg=loading_app=Loading application
+msg=err_create_target=Unable to create target applet
+msg=err_create_advertising=Unable to create advertising
+msg=err_save_file=Error saving file
+msg=err_downloading=Error downloading
+msg=ok=OK
+msg=cancel=Cancel
+msg=message=Message
+msg=copy_paste_url=Please copy and paste the following URL into your web browser
+msg=information=Information
+msg=err_get_file=Error getting file
+msg=new_version=Update available! You can now launch the client directly from the OldSchool website.\nGet the new version from the link on the OldSchool homepage: http://oldschool.runescape.com/
+msg=new_version_linktext=Open OldSchool Homepage
+msg=new_version_link=http://oldschool.runescape.com/
+param=1=1
+param=2=https://payments.jagex.com/operator/v1/
+param=3=true
+param=4=12041
+param=5=1
+param=6=0
+param=7=0
+param=8=true
+param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
+param=10=5
+param=11=https://auth.jagex.com/
+param=12=1
+param=13=.boom-ps.com
+param=14=0
+param=15=0
+param=16=false
+param=17=https://zaedian.github.io/Server/worlds.ws
+param=18=
+param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
