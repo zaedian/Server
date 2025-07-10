@@ -1,9 +1,9 @@
 title=BoomPS
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=https://game.boom-ps.com
+codebase=https://zaedian.github.io/Server/
 cachedir=oldschool
 storebase=0
-initial_jar=gamepack_2610403.jar
+initial_jar=client.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
