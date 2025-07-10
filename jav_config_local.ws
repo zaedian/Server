@@ -55,7 +55,7 @@ param=12=1
 param=18=
 param=15=0
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
-param=17=https://boom-scape.com/integrations/data/local/worlds.ws
+param=17=https://zaedian.github.io/Server/worlds.ws
 param=16=false
 param=1=1
 param=13=.runescape.com

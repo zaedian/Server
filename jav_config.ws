@@ -60,6 +60,6 @@ param=13=.boom-ps.com
 param=14=0
 param=15=0
 param=16=false
-param=17=https://boom-ps.com/integrations/data/worlds.ws
+param=17=https://zaedian.github.io/Server/worlds.ws
 param=18=
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
