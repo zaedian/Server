@@ -1,4 +1,3 @@
-{
 title=BoomPS
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=https://zaedian.github.io/Server/
@@ -64,4 +63,3 @@ param=16=false
 param=17=https://zaedian.github.io/Server/worlds.ws
 param=18=
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
-}
